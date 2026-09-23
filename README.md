@@ -21,11 +21,38 @@ A comprehensive AI-powered insurance solution featuring a knowledge-grounded voi
 │                     │ Q1 uses Q2's KB for grounded answers       │
 │                     │ Q4 analyzes recorded calls from Q1/Q3      │
 └─────────────────────┴───────────────────────────────────────────┘
-<img width="2944" height="2860" alt="image" src="https://github.com/user-attachments/assets/f27e828e-17b8-4437-9d2f-c7e15a41d074" />
-<img width="2884" height="4648" alt="image" src="https://github.com/user-attachments/assets/c05c119c-c5c9-48ba-a515-3726114c6b5b" />
-<img width="4648" height="2868" alt="image" src="https://github.com/user-attachments/assets/e93b3c0e-5200-4be9-934c-82b232867e0e" />
-<img width="2860" height="816" alt="image" src="https://github.com/user-attachments/assets/8780a2bf-5826-4cd3-b2c5-0a475886d4ae" />
-<img width="1748" height="3484" alt="image" src="https://github.com/user-attachments/assets/de634742-a71e-488f-8edc-041762a0f93c" />
+## 📸 Screenshots
+
+### 🖥️ Application Overview
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f27e828e-17b8-4437-9d2f-c7e15a41d074" alt="Application Overview" width="900"/>
+</p>
+
+### 📱 Main Screens
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c05c119c-c5c9-48ba-a515-3726114c6b5b" alt="Main Screens" width="500"/>
+</p>
+
+### 🎨 User Interface
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e93b3c0e-5200-4be9-934c-82b232867e0e" alt="User Interface" width="900"/>
+</p>
+
+### ⚙️ Features
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8780a2bf-5826-4cd3-b2c5-0a475886d4ae" alt="Features" width="900"/>
+</p>
+
+### 📊 Additional Screens
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/de634742-a71e-488f-8edc-041762a0f93c" alt="Additional Screens" width="500"/>
+</p>
+
 
 
 
