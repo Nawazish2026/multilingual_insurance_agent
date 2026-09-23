@@ -21,19 +21,8 @@ A comprehensive AI-powered insurance solution featuring a knowledge-grounded voi
 │                     │ Q1 uses Q2's KB for grounded answers       │
 │                     │ Q4 analyzes recorded calls from Q1/Q3      │
 └─────────────────────┴───────────────────────────────────────────┘
-<img width="3845" height="1182" alt="Untitled Diagram" src="https://github.com/user-attachments/assets/10077a6d-9bd3-46ae-a366-e582927fef2c" />
-
-
-
-
-
-
-
-
-
-
-
 ```
+<img width="3845" height="1182" alt="Untitled Diagram" src="https://github.com/user-attachments/assets/15d07e52-4018-4061-abce-e65c7a63bf72" />
 
 ## 📂 Project Structure
 
